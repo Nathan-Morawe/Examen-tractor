@@ -18,9 +18,10 @@
      
      Luego incluyo todas las etiquetas que no conienen etiquetas dentro.
      
+     ![Captura de pantalla de 2021-10-15 16-48-04](https://user-images.githubusercontent.com/91209043/137517279-0897906b-4cf5-4a7b-9de3-e14bba954a13.png)
+
      
-     
-     ![Captura de pantalla de 2021-10-15 16-48-04](https://user-images.githubusercontent.com/91209043/137516217-4f0da5af-19ac-453f-bd30-73e1c1e41ddd.png)
+    
   </paso>
   
   
@@ -31,8 +32,9 @@
   Para finalizar pongo todos los atributos que tiene el xml.
   
     
-    
-    ![Captura de pantalla de 2021-10-15 16-50-34](https://user-images.githubusercontent.com/91209043/137516583-f805c215-70af-4dcf-b2f7-6d100e8d5d2e.png)
+    ![Captura de pantalla de 2021-10-15 16-50-34](https://user-images.githubusercontent.com/91209043/137517246-2eed06ab-81f1-40a8-a2cd-e98e883a9908.png)
+
+
 
   </paso>
   
