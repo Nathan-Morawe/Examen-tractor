@@ -4,7 +4,7 @@
   
   ![Captura de pantalla de 2021-10-15 16-44-19](https://user-images.githubusercontent.com/91209043/137515753-5fac0c1c-baaa-42f9-a5bc-a28809518ae7.png)
 
-  <paso/>
+  </paso>
   <paso numero"2"> A continuacíon me fijo en todas las etiquetas que contienen a su vez otras etiquetas.
   
   
@@ -27,15 +27,8 @@
   
   
   <paso numero"4">
-  
-  
   Para finalizar pongo todos los atributos que tiene el xml.
-  
-    
-    ![Captura de pantalla de 2021-10-15 16-50-34](https://user-images.githubusercontent.com/91209043/137517246-2eed06ab-81f1-40a8-a2cd-e98e883a9908.png)
-
-
-
+     ![Captura de pantalla de 2021-10-15 16-50-34](https://user-images.githubusercontent.com/91209043/137517246-2eed06ab-81f1-40a8-a2cd-e98e883a9908.png)
   </paso>
   
   
