@@ -15,14 +15,9 @@
   
   
    <paso numero"3"> 
-     
-     Luego incluyo todas las etiquetas que no conienen etiquetas dentro.
-     
-     ![Captura de pantalla de 2021-10-15 16-48-04](https://user-images.githubusercontent.com/91209043/137517279-0897906b-4cf5-4a7b-9de3-e14bba954a13.png)
-
-     
-    
-  </paso>
+  Luego incluyo todas las etiquetas que no conienen etiquetas dentro.
+    ![Captura de pantalla de 2021-10-15 16-48-04](https://user-images.githubusercontent.com/91209043/137517279-0897906b-4cf5-4a7b-9de3-e14bba954a13.png)
+</paso>
   
   
   
